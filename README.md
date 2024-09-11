@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif Abdelhamid</h1>
-<h3 align="center">I'm Seif Abdelhamid, a passionate and versatile student at Stem High School for Boys - 6th of October, with a love for technology and creative problem-solving. As a web developer and designer, I thrive on crafting engaging digital experiences that leave a lasting impact. With a keen eye for detail and a drive for excellence, I constantly seek innovative ways to push the boundaries of design and user experience.</h3>
+<h3 align="center">I'm Seif Abdelhamid, a passionate and versatile Computer Science Undergaduate student, with a love for technology and creative problem-solving. As a web developer and designer, I thrive on crafting engaging digital experiences that leave a lasting impact. With a keen eye for detail and a drive for excellence, I constantly seek innovative ways to push the boundaries of design and user experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-seif&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-seif" /> </p>
-- 🔭 I’m currently working on **Technical Lead at STEM Entrepreneurship Center**
 
 - 🌱 I’m currently learning **Remotion, GoLang, Gin Gonic, Elixir**
 
